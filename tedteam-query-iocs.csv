@@ -1,4 +1,4 @@
-query,sc-name
+query,threat_name
 wpad.example.org,emotet
 computer.example[.]org,emotet
 vmss-prod-weu.westeurope.cloudapp.azure.com,emotet
@@ -182,3 +182,4 @@ jerde.kreiger.info,Bumblebee_2nd
 reilly.carroll.com,Bumblebee_2nd
 stracke.lakin.windler.net,Bumblebee_2nd
 D2ZBLLOLIROMFU.CLOUDFRONT.NET,REvil_Ransomware
+ppaauuaa11232.cc,Lockbit
