@@ -1537,10 +1537,8 @@ ip,threat_name
 74.93.148.97,Qbot
 202.186.177.88,Qbot
 14.202.223.107,Qbot
-102.156.32.143,Qbot
 105.184.159.223,Qbot
 116.86.252.13,Qbot
-208.187.122.74,Qbot
 180.158.187.35,Qbot
 82.127.204.82,Qbot
 71.52.53.166,Qbot
@@ -1634,6 +1632,154 @@ ip,threat_name
 195.133.40.128,AsyncRAT
 193.233.20.13,Redline_stealer
 176.113.115.17,Redline_stealer
-85.208.136.26,Rhadamanthys	
+"85.208.136.26,Rhadamanthys	"
 45.66.151.81,Rhadamanthys
 141.98.82.254,Rhadamanthys
+198.244.187.248,Lockbit
+150.129.218.231,Lockbit
+102.157.44.105,RoyalRansomware
+105.158.118.241,RoyalRansomware
+105.69.155.85,RoyalRansomware
+113.169.187.159,RoyalRansomware
+134.35.9.209,RoyalRansomware
+139.195.43.166,RoyalRansomware
+139.60.161.213,RoyalRansomware
+148.213.109.165,RoyalRansomware
+163.182.177.80,RoyalRansomware
+179.43.167.10,RoyalRansomware
+181.141.3.126,RoyalRansomware
+181.164.194.228,RoyalRansomware
+185.7.214.218,RoyalRansomware
+186.64.67.6,RoyalRansomware
+186.86.212.138,RoyalRansomware
+190.193.180.228,RoyalRansomware
+193.149.176.157,RoyalRansomware
+196.70.77.11,RoyalRansomware
+197.158.89.85,RoyalRansomware
+197.204.247.7,RoyalRansomware
+197.207.181.147,RoyalRansomware
+197.207.218.27,RoyalRansomware
+197.94.67.207,RoyalRansomware
+209.141.36.116,RoyalRansomware
+23.111.114.52,RoyalRansomware
+41.100.55.97,RoyalRansomware
+41.107.77.67,RoyalRansomware
+41.109.11.80,RoyalRansomware
+41.251.121.35,RoyalRansomware
+41.97.65.51,RoyalRansomware
+42.189.12.36,RoyalRansomware
+5.181.234.58,RoyalRansomware
+61.166.221.46,RoyalRansomware
+77.73.133.84,RoyalRansomware
+81.184.181.215,RoyalRansomware
+82.12.196.197,RoyalRansomware
+94.232.41.105,RoyalRansomware
+98.143.70.147,RoyalRansomware
+45.227.251.167,RoyalRansomware
+45.8.158.104,RoyalRansomware
+193.235.146.104,RoyalRansomware
+152.89.247.50,RoyalRansomware
+185.143.223.69,RoyalRansomware
+47.87.229.39,RoyalRansomware
+5.188.86.195,RoyalRansomware
+5.44.42.20,RoyalRansomware
+68.83.169.91,RoyalRansomware
+89.108.65.136,RoyalRansomware
+188.114.96.13,Lokibot
+45.93.201.114,Rhadamanthys
+91.229.23.200,Rhadamanthys
+98.142.254.89,OneNote
+95.179.215.225,OneNote
+91.235.234.97,OneNote
+91.234.254.213,OneNote
+87.236.146.31,OneNote
+87.236.146.155,OneNote
+85.239.41.55,OneNote
+77.75.230.128,OneNote
+5.42.221.117,OneNote
+49.50.84.121,OneNote
+45.86.231.23,OneNote
+45.77.63.210,OneNote
+45.155.37.170,OneNote
+216.146.25.57,OneNote
+216.120.201.100,OneNote
+185.231.204.245,OneNote
+185.104.195.95,OneNote
+174.139.150.45,OneNote
+154.7.253.191,OneNote
+146.59.43.159,OneNote
+141.164.35.94,OneNote
+103.214.71.45,OneNote
+5.42.221.116,OneNote
+45.155.37.124,OneNote
+139.99.117.17,OneNote
+179.43.175.187,OneNote
+198.44.140.78,OneNote
+162.247.153.39,OneNote
+188.227.106.162,RIG_ Exploit_Kit
+188.227.106.81,RIG_ Exploit_Kit
+188.227.106.83,RIG_ Exploit_Kit
+188.227.57.93,RIG_ Exploit_Kit
+188.227.58.144,RIG_ Exploit_Kit
+188.227.58.152,RIG_ Exploit_Kit
+188.227.59.52,RIG_ Exploit_Kit
+195.16.88.28,RIG_ Exploit_Kit
+45.138.26.51,RIG_ Exploit_Kit
+45.138.26.89,RIG_ Exploit_Kit
+45.138.26.93,RIG_ Exploit_Kit
+45.138.26.94,RIG_ Exploit_Kit
+188.225.75.54,RIG_ Exploit_Kit
+45.132.226.177,RIG_ Exploit_Kit
+15.244.197.9,MyDoom
+141.240.203.6,MyDoom
+16.115.197.163,MyDoom
+67.120.102.206,MyDoom
+166.77.123.68,MyDoom
+198.89.160.22,MyDoom
+15.98.11.12,MyDoom
+67.121.94.10,MyDoom
+15.24.69.27,MyDoom
+129.204.109.121,MyDoom
+70.241.87.215,MyDoom
+16.80.195.68,MyDoom
+15.9.79.129,MyDoom
+15.14.59.199,MyDoom
+216.114.194.30,MyDoom
+15.228.15.126,MyDoom
+16.100.121.101,MyDoom
+15.63.9.76,MyDoom
+65.6.113.38,MyDoom
+141.240.211.237,MyDoom
+16.83.199.36,MyDoom
+66.248.57.65,MyDoom
+15.59.127.133,MyDoom
+16.150.138.126,MyDoom
+141.154.253.115,MyDoom
+66.43.244.133,MyDoom
+68.158.45.83,MyDoom
+152.16.43.135,MyDoom
+129.81.101.242,MyDoom
+16.102.137.19,MyDoom
+16.102.153.27,MyDoom
+67.171.253.156,MyDoom
+15.75.188.252,MyDoom
+216.128.188.41,MyDoom
+16.126.107.216,MyDoom
+16.125.202.53,MyDoom
+162.28.185.188,MyDoom
+195.75.252.98,MyDoom
+68.223.45.7,MyDoom
+24.148.141.102,MyDoom
+141.240.190.28,MyDoom
+129.243.132.29,MyDoom
+148.193.135.228,MyDoom
+24.190.210.189,MyDoom
+12.166.196.8,MyDoom
+15.228.161.161,MyDoom
+220.234.104.158,MyDoom
+5.75.205.43,Qbot
+23.111.114.52,Qbot
+78.31.67.7,Qbot
+208.187.122.74,Qbot
+128.254.207.55,Qbot
+102.156.32.143,Qbot
